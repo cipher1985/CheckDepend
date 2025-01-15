@@ -1,0 +1,13 @@
+﻿<RCC>
+    <qresource prefix="/">
+        <file>TextEditMenuCN.qm</file>
+        <file>file.png</file>
+        <file>folder.png</file>
+        <file>dumpbin.exe</file>
+        <file>link.exe</file>
+        <file>tbbmalloc.dll</file>
+        <file>icon.png</file>
+        <file>mspdb140.dll</file>
+        <file>mspdbcore.dll</file>
+    </qresource>
+</RCC>
